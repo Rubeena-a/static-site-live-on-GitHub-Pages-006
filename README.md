@@ -13,7 +13,7 @@ This repository contains a simple static website deployed using GitHub Pages.
 
 ## How to view 
 1. Clone repo
-2. `git checkout -b main` (or ensure your default branch is `main`)
+2. `git checkout -b main` (or  default branch is `main`)
 3. Push to GitHub and enable GitHub Pages (Settings → Pages → branch: `main`, folder: `/ (root)`)
 
 
