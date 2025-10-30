@@ -28,6 +28,24 @@ This repository contains a simple static website deployed using GitHub Pages.
 
 <img width="981" height="415" alt="image" src="https://github.com/user-attachments/assets/61874a3a-2b09-444e-9879-e9b7fdb7caeb" />
 
-**Author**
+### Troubleshooting common problems & fixes
+
+- Page shows 404 / Not Found: Ensure branch is main (or the branch you selected in Settings)
+Ensure index.html is in repository root (not inside a folder)
+Check Pages settings again; reselect branch and root folder then Save.
+
+
+
+- Repository private: GitHub Pages for public repos works by default. If your repo is private and you have a free account, Pages for private repos may have restrictions — keep the repo public for the internship task.
+
+
+
+
+- Branch named master instead of main : Either rename local branch to main (git branch -M main) or select master in Pages settings. Consistency helps.
+
+
+
+
+### Author
 Rubeena Shaik
 
