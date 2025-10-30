@@ -15,7 +15,8 @@ This repository contains a simple static website deployed using GitHub Pages.
 
 
 **Website**
-<img width="1316" height="587" alt="image" src="https://github.com/user-attachments/assets/8ff18c1d-d9a8-4c38-907f-ec573832cd4a" />
+
+<img width="981" height="415" alt="image" src="https://github.com/user-attachments/assets/61874a3a-2b09-444e-9879-e9b7fdb7caeb" />
 
 **Author**
 Rubeena Shaik
