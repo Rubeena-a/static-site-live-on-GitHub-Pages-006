@@ -3,33 +3,32 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>My Static Site</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>Minikube-005 Demo Page</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header>
-    <h1>Welcome to My Static Site</h1>
-    <p>Hosted with GitHub Pages </p>
+  <header class="site-header">
+    <h1>Minikube-005 — GitHub Pages Demo</h1>
+    <p class="subtitle">A simple static page deployed to GitHub Pages.</p>
   </header>
 
-  <main>
+  <main class="content">
     <section>
       <h2>About this task</h2>
-      <p>This is a sample index.html for the DevOps task: Host a Static Website with GitHub Pages.</p>
+      <p>This repository demonstrates deploying an <code>index.html</code> to GitHub Pages (project page).</p>
     </section>
 
     <section>
-      <h2>Contact</h2>
-      <p>Email: your.email@example.com</p>
+      <h2>What I changed</h2>
+      <ul>
+        <li>Added index.html and styles.css</li>
+        <li>Configured README.md with instructions and link</li>
+      </ul>
     </section>
   </main>
 
-  <footer>
-    <small>© <span id="year"></span> Rubeena Shaik </small>
+  <footer class="site-footer">
+    <p>Built for TASK 6 — DevOps Internship</p>
   </footer>
-
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
 </body>
 </html>
