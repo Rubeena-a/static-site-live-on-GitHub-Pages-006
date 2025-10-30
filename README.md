@@ -10,6 +10,7 @@ This repository contains a simple static website deployed using GitHub Pages.
 
 **How to view**
 1. Site is deployed via GitHub Pages: enable in repo Settings → Pages.
-2. Live URL: `https://<your-github-username>.github.io/<repo-name>/`
+2. Site is live at https://rubeena-a.github.io/static-site-live-on-GitHub-Pages-006/
+
 
 
