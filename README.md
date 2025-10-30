@@ -41,7 +41,7 @@ Check Pages settings again; reselect branch and root folder then Save.
 
 
 
-- Branch named master instead of main : Either rename local branch to main (git branch -M main) or select master in Pages settings. Consistency helps.
+- Branch named master instead of main : Either rename local branch to main (git branch -M main) or select master in Pages settings. 
 
 
 
